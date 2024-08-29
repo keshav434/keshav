@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keshav/static/css/main.2ee9da25.css",
-    "main.js": "/keshav/static/js/main.dbee2666.js",
+    "main.js": "/keshav/static/js/main.6c71b6f0.js",
     "static/media/fd1.png": "/keshav/static/media/fd1.f83357aca6ccfba3ee3c.png",
     "static/media/fd2.png": "/keshav/static/media/fd2.2b785305be458c6ac78d.png",
     "static/media/Covid.png": "/keshav/static/media/Covid.347915e3b506bca58ea9.png",
@@ -27,10 +27,10 @@
     "static/media/vx2.png": "/keshav/static/media/vx2.8288f59afe025a83926e.png",
     "index.html": "/keshav/index.html",
     "main.2ee9da25.css.map": "/keshav/static/css/main.2ee9da25.css.map",
-    "main.dbee2666.js.map": "/keshav/static/js/main.dbee2666.js.map"
+    "main.6c71b6f0.js.map": "/keshav/static/js/main.6c71b6f0.js.map"
   },
   "entrypoints": [
     "static/css/main.2ee9da25.css",
-    "static/js/main.dbee2666.js"
+    "static/js/main.6c71b6f0.js"
   ]
 }
